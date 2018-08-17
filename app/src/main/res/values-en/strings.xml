@@ -4,6 +4,10 @@
     <string name="titulo">CALCULATOR</string>
     <string name="primer_numero">Firts Number</string>
     <string name="segundo_numero">Second Number</string>
-    <string name="guardar">Save</string>
+    <string name="guardar">Calculate</string>
     <string name="limpiar">Clear</string>
+    <string name="suma">Addition</string>
+    <string name="resta">Subtraction</string>
+    <string name="multiplicacion">Multiplication</string>
+    <string name="division">Division</string>
 </resources>
